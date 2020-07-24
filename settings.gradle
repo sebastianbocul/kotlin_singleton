@@ -1,0 +1,2 @@
+rootProject.name='Kotlin Singleton'
+include ':app'
